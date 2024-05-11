@@ -1,7 +1,7 @@
-[![MasterHead](https://angiecaiza27.github.io)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, Soy Angie Caiza</h1>
 <h3 align="center">Desarrolladora & Estuiante de Ingeniería en Software</h3>
-<img aling="right" alt="Codigo" width= "400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" >
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiecaiza27&label=Profile%20views&color=0e75b6&style=flat" alt="angiecaiza27" /> </p>
 
