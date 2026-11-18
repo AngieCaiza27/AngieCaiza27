@@ -1,21 +1,23 @@
+<div align="center">
+  <img src="./banner%20portafolio.png" alt="Banner Angie Caiza" width="100%" />
+</div>
+
 <h1 align="center">Hola 👋, Soy Angie Caiza</h1>
-<h3 align="center">Desarrolladora & Estuiante de Ingeniería en Software</h3>
+<h3 align="center">Desarrolladora & Estudiante de Ingeniería en Software</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiecaiza27&label=Profile%20views&color=0e75b6&style=flat" alt="angiecaiza27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 Actualmente estoy trabajando **en un software de gestión de reservas**
 
-- 🔭Actualmente estoy trabajando en **En un software de gestión de reservas**
+- 🌱 Actualmente estoy aprendiendo **React, PHP, Spring**
 
-- 🌱 Actualmente estoy aprendiendo **React,php,SpringerLike**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/AngieCaiza27](https://github.com/AngieCaiza27)
 
-- 👨‍💻Todos mis proyectos están disponibles en [https://github.com/AngieCaiza27](https://github.com/AngieCaiza27)
+- 📫 Cómo llegar a mí: **acaiza0477@uta.edu.ec**
 
-- 📫 Como llegar a mi **acaiza0477@uta.edu.ec**
-
-- ⚡ Fun fact **Ver animes y doramas**
+- ⚡ Fun fact: **Ver animes y doramas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
