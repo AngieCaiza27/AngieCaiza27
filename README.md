@@ -1,38 +1,90 @@
+<!-- BANNER PRINCIPAL -->
 <div align="center">
   <img src="./banner%20portafolio.png" alt="Banner Angie Caiza" width="100%" />
 </div>
 
-<h1 align="center">Hola 👋, Soy Angie Caiza</h1>
-<h3 align="center">Desarrolladora & Estudiante de Ingeniería en Software</h3>
+<h1 align="center">Hola 👋, soy Angie Caiza</h1>
+<h3 align="center">Desarrolladora de Software | Estudiante de Ingeniería en Software</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angiecaiza27&label=Profile%20views&color=0e75b6&style=flat" alt="angiecaiza27" /> </p>
-
-- 🔭 Actualmente estoy trabajando **en un software de gestión de reservas**
-
-- 🌱 Actualmente estoy aprendiendo **React, PHP, Spring**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/AngieCaiza27](https://github.com/AngieCaiza27)
-
-- 📫 Cómo llegar a mí: **acaiza0477@uta.edu.ec**
-
-- ⚡ Fun fact: **Ver animes y doramas**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/angie caiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angie caiza" height="30" width="40" /></a>
-<a href="https://instagram.com/angiecaiza27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angiecaiza27" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angiecaiza27&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:acaiza0477@uta.edu.ec">
+    <img src="https://img.shields.io/badge/Email-acaiza0477@uta.edu.ec-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/angiecaiza27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/angiecaiza27" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@angiecaiza27-1E293B?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Angie Caiza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Angie Caiza" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecaiza27&show_icons=true&locale=en&layout=compact" alt="angiecaiza27" /></p>
+### 👩‍💻 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angiecaiza27&show_icons=true&locale=en" alt="angiecaiza27" /></p>
+- 🔭 **Proyecto actual:** Desarrollo de un **Software de Gestión de Reservas** orientado a optimizar procesos y administración.
+- 🌱 **Aprendiendo actualmente:** Arquitectura Full-Stack con **React**, **PHP** y **Spring Boot**.
+- 🎓 **Formación:** Estudiante de Ingeniería en Software (UTA).
+- 💡 **Intereses:** Desarrollo web, aplicaciones móviles, diseño de interfaces y bases de datos relacionales.
+- ⚡ **Dato curioso:** En mi tiempo libre disfruto ver animes y doramas.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angiecaiza27&" alt="angiecaiza27" /></p>
+---
+
+### 🚀 Proyectos Destacados
+
+> *Puedes reemplazar los enlaces y nombres de abajo con tus repositorios principales de GitHub:*
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :---: |
+| **📅 Sistema de Gestión de Reservas** | Plataforma web para la administración, control y agendamiento de reservas en tiempo real. | `React` `PHP` `MySQL` | [Ver Repo](https://github.com/AngieCaiza27) |
+| **📱 Aplicación Móvil Android** | Desarrollo de aplicación nativa enfocada en experiencia de usuario y gestión de datos. | `Java` `Android` `Oracle` | [Ver Repo](https://github.com/AngieCaiza27) |
+| **🌐 Portafolio & Proyectos Web** | Colección de aplicaciones web responsivas y prácticas de ingeniería de software. | `HTML5` `CSS3` `JS` `Bootstrap` | [Ver Repo](https://github.com/AngieCaiza27?tab=repositories) |
+
+---
+
+### 🛠️ Stack Tecnológico
+
+#### **Frontend & Móvil**
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
+
+#### **Backend & Lenguajes**
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+
+#### **Bases de Datos & Herramientas**
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=angiecaiza27&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&icon_color=0E75B6&text_color=E2E8F0&hide_border=false" alt="Estadísticas de GitHub" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecaiza27&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&text_color=E2E8F0&hide_border=false" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angiecaiza27&theme=tokyonight&background=0D1117&border=1E293B&ring=38BDF8&fire=0E75B6&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" alt="Racha de contribuciones" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://ko-fi.com/angiecaiza27" target="_blank">
+    <img src="https://img.shields.io/badge/Apoya%20mi%20trabajo-Ko--fi-0E75B6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
