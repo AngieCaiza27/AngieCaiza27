@@ -14,24 +14,14 @@
 
 <!-- BADGES DE CONTACTO Y VISITAS -->
 <p align="center">
-  <a href="https://angiecaiza27.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-angiecaiza27.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
-  </a>
-  <a href="https://www.linkedin.com/in/angiecaiza27" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:acaiza0477@uta.edu.ec">
-    <img src="https://img.shields.io/badge/Email-Contacto-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/angiecaiza27" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@angiecaiza27-C084FC?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram" />
-  </a>
+  <a href="https://angiecaiza27.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-angiecaiza27.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" /></a>
+  <a href="https://www.linkedin.com/in/angiecaiza27" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-6366F1?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:angiecaiza27@gmail.com"><img src="https://img.shields.io/badge/Email-angiecaiza27@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngieCaiza27&label=VISITAS+AL+PERFIL&color=8b5cf6&style=for-the-badge" alt="Visitas al perfil" />
-  <img src="https://img.shields.io/github/followers/AngieCaiza27?label=SEGUIDORES&color=6366f1&style=for-the-badge" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Ecuador_%F0%9F%87%AA%F0%9F%87%A8-1E1B4B?style=for-the-badge" alt="Ecuador" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Ecuador-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=C084FC" alt="Ecuador" />
 </p>
 
 ---
@@ -240,12 +230,8 @@ Aquí tienes una selección de mis proyectos públicos más representativos, com
 <!-- FOOTER -->
 <div align="center">
   <h3>💜 ¿Te gusta mi trabajo? ¡Conectemos o apóyame con un café!</h3>
-  <a href="https://ko-fi.com/angiecaiza27" target="_blank">
-    <img src="https://img.shields.io/badge/Apoya%20mi%20trabajo-Ko--fi-8B5CF6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://angiecaiza27.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-Web-A855F7?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portafolio" />
-  </a>
+  <a href="https://ko-fi.com/angiecaiza27" target="_blank"><img src="https://img.shields.io/badge/Apoya%20mi%20trabajo-Ko--fi-8B5CF6?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://angiecaiza27.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-Web-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 </div>
 
 <div align="center">
